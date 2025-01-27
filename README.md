@@ -4,6 +4,10 @@
 
 We encountered this puzzle at the *Museum der Illusionen* in Vienna, where it was presented in a physical form (with actual movable pieces featuring slots and holes). It took us some time to solve it. To document that fun experience, I recreated the puzzle using JavaScript. I also used assistance from ChatGPT, making this project a showcase for prompt engineering.
 
+## How it works
+
+![How it works](./iamges/kugelnx2.gif)
+
 ## Puzzle Rules
 
 1. **Objective**: Exchange the positions of the red and yellow pieces.
@@ -21,7 +25,9 @@ We encountered this puzzle at the *Museum der Illusionen* in Vienna, where it wa
 ## How to start
 
 1. Clone the repo.
-   ```git clone 
+   ```
+   git clone https://github.com/megnergit/Puzzle_Swap_J1.git
+   ```
 
 2. Load ```index.html```
 
