@@ -11,9 +11,10 @@ engineering.
 ## How it works
 
 <div style="width: 100%"; "text-align: center;">
-  <img src="./images/kugelnx2.gif" alt="How it works GIF" style="width: 200%; max-width: 600px;" />
+  <img src="./images/kugelnx2.gif" alt="How it works GIF" style="width: 100%; max-width: 600px;" />
 </div>
 
+<img src="./images/kugelnx2.gif" alt="How it works" width="800" style="display: block; margin: auto;" />
 
 ## Puzzle Rules
 
