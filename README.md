@@ -10,7 +10,7 @@ engineering.
 
 ## How it works
 
-![How it works](./iamges/kugelnx2.gif)
+![How it works](./images/kugelnx2.gif)
 
 ## Puzzle Rules
 
