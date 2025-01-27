@@ -10,7 +10,7 @@ engineering.
 
 ## How it works
 
-<div style="text-align: center;">
+<div style="width: 100%"; "text-align: center;">
   <img src="./images/kugelnx2.gif" alt="How it works GIF" style="width: 200%; max-width: 600px;" />
 </div>
 
