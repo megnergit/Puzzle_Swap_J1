@@ -10,7 +10,10 @@ engineering.
 
 ## How it works
 
-![How it works](./images/kugelnx2.gif)
+<div style="text-align: center;">
+  <img src="./images/kugelnx2.gif" alt="How it works GIF" style="width: 100%; max-width: 600px;" />
+</div>
+
 
 ## Puzzle Rules
 
